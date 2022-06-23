@@ -1,0 +1,131 @@
+[
+  {
+    "name": "Alexa",
+    "image": "https://res.cloudinary.com/aceweb/image/upload/v1655963895/challeneg/1.Siri2020_x6rr92.png",
+    "price": 40,
+    "title": "Alexa Skills Kit",
+    "discount": 10,
+    "imgGroup": [
+      "https://cdn-3.expansion.mx/5c/60/bfc4c21f4fb0839b337020117eb2/alexa.PNG",
+      "https://res.cloudinary.com/aceweb/image/upload/v1655963895/challeneg/1.Siri2020_x6rr92.png",
+      "https://cdn-3.expansion.mx/5c/60/bfc4c21f4fb0839b337020117eb2/alexa.PNG"
+    ],
+    "rating": 4.5,
+    "specification": ["1 GB RAM", "128 GB Storage", "12MP Front Camera"],
+    "brand": "Amazon"
+  },
+  {
+    "name": "Samsung",
+    "image": "https://res.cloudinary.com/aceweb/image/upload/v1655963908/challeneg/12.SonyBGB_udnugb.png",
+    "price": 401,
+    "title": "Samsung Voice Control",
+    "discount": 10,
+    "imgGroup": [
+      "https://res.cloudinary.com/aceweb/image/upload/v1655963908/challeneg/12.SonyBGB_udnugb.png",
+      "https://images.samsung.com/is/image/samsung/p6pim/latin/sp-lsp3blaxza/gallery/latin-the-freestyle-lsp3b-sp-lsp3blaxza-530721414?$1300_1038_PNG$  ",
+      "https://res.cloudinary.com/aceweb/image/upload/v1655963908/challeneg/12.SonyBGB_udnugb.png"
+    ],
+    "rating": 4.5,
+    "specification": ["2 GB RAM", "111 GB Storage", "15MP Front Camera"]
+  },
+  {
+    "name": "Apple Watch",
+    "discount": 10,
+    "image": "https://res.cloudinary.com/aceweb/image/upload/v1655964475/challeneg/apple-watch-2_pgkpfc.png",
+    "price": 1900,
+    "title": "Apple Watch",
+    "imgGroup": [
+      "https://res.cloudinary.com/aceweb/image/upload/v1655964470/challeneg/apple-watch-1_v8xlop.png",
+      "https://res.cloudinary.com/aceweb/image/upload/v1655964465/challeneg/apple-watch-0_agvbu6.png",
+      "https://res.cloudinary.com/aceweb/image/upload/v1655964470/challeneg/apple-watch-1_v8xlop.png"
+    ],
+    "rating": 4.5,
+    "specification": [
+      "Model: Apple Watch Series 3",
+      "Color: Space Gray",
+      "Size: 42mm",
+      "Weight: 1.2kg",
+      "Battery: 3800 mAh"
+    ]
+  },
+  {
+    "name": "Guitar",
+    "image": "https://res.cloudinary.com/aceweb/image/upload/v1655964766/challeneg/Music/4.Detailed_Painted_Acoustic_Guitar_puc7kr.png",
+    "price": 1000,
+    "title": "Guitar Hero",
+    "discount": 5,
+    "imgGroup": [
+      "https://res.cloudinary.com/aceweb/image/upload/v1655964766/challeneg/Music/4.Detailed_Painted_Acoustic_Guitar_puc7kr.png",
+      "https://res.cloudinary.com/aceweb/image/upload/v1655964773/challeneg/Music/4.DetailedPaintedAcousticGuitar_pejsej.png",
+      "https://res.cloudinary.com/aceweb/image/upload/v1655964766/challeneg/Music/4.Detailed_Painted_Acoustic_Guitar_puc7kr.png"
+    ],
+    "rating": 3.1,
+    "specification": [
+      "Model: Guitar Hero",
+      "Color: Brown",
+      "Size: 42mm",
+      "Weight: 1.2kg"
+    ]
+  },
+  {
+    "name": "Piano",
+    "image": "https://res.cloudinary.com/aceweb/image/upload/v1655964712/challeneg/Music/29.Roland_Jupiter-X_Synthesizer_qsdl7w.png",
+    "price": 800,
+    "title": "Piano Honda",
+    "discount": 30,
+    "imgGroup": [
+      "https://res.cloudinary.com/aceweb/image/upload/v1655964679/challeneg/Music/26.RolandJupiterXSynthesizer_ia6kzw.png",
+      "https://res.cloudinary.com/aceweb/image/upload/v1655964679/challeneg/Music/26.RolandJupiterXSynthesizer_ia6kzw.png",
+      "https://res.cloudinary.com/aceweb/image/upload/v1655964891/challeneg/Music/5.Piano_pzqjqb.png"
+    ],
+    "rating": 3.1,
+    "specification": [
+      "Model: Piano Honda",
+      "Keys: 88",
+      "Color: Black",
+      "Size: 50mm"
+    ]
+  },
+  {
+    "name": "Ninja Kawasaki",
+    "image": "https://res.cloudinary.com/aceweb/image/upload/v1655964227/challeneg/Bikes/7.NinjaKawasaki_2016_tpbgza.png",
+    "price": 4000,
+    "title": "Ninja Kawasaki",
+    "discount": 20,
+    "imgGroup": [
+      "https://res.cloudinary.com/aceweb/image/upload/v1655964205/challeneg/Bikes/4.Kawasaki2018_aqbtev.png",
+      "https://res.cloudinary.com/aceweb/image/upload/v1655964227/challeneg/Bikes/7.NinjaKawasaki_2016_tpbgza.png",
+      "https://res.cloudinary.com/aceweb/image/upload/v1655964227/challeneg/Bikes/7.NinjaKawasaki_2016_tpbgza.png"
+    ],
+    "rating": 5,
+    "specification": ["Model: Ninja Kawasaki", "Color: Black", "Speed: 100km/h"]
+  },
+  {
+    "name": "Bicicleta",
+    "image": "https://res.cloudinary.com/aceweb/image/upload/v1655964235/challeneg/Bikes/8.CozimaLOOK_puuft1.png",
+    "price": 2000,
+    "title": "Bicicleta Cozima",
+    "discount": 5,
+    "imgGroup": [
+      "https://res.cloudinary.com/aceweb/image/upload/v1655964197/challeneg/Bikes/3.Spec2015_xzqt86.png",
+      "https://res.cloudinary.com/aceweb/image/upload/v1655964147/challeneg/Bikes/19.FujiTRX_aua60q.png",
+      "https://res.cloudinary.com/aceweb/image/upload/v1655964235/challeneg/Bikes/8.CozimaLOOK_puuft1.png"
+    ],
+    "rating": 4.5,
+    "specification": ["Model: Cozima", "Color: Black", "Model: Fuji TRX"]
+  },
+  {
+    "name": "Playstation 4",
+    "image": "https://res.cloudinary.com/aceweb/image/upload/v1655963900/challeneg/10.SonyPS4_vyd2sb.png",
+    "price": 400,
+    "title": "Playstation 4",
+    "discount": 3,
+    "imgGroup": [
+      "https://res.cloudinary.com/aceweb/image/upload/v1655963903/challeneg/11.Netgear2020_hajvmr.png",
+      "https://res.cloudinary.com/aceweb/image/upload/v1655963900/challeneg/10.SonyPS4_vyd2sb.png",
+      "https://res.cloudinary.com/aceweb/image/upload/v1655963903/challeneg/11.Netgear2020_hajvmr.png"
+    ],
+    "rating": 4.1,
+    "specification": ["Model: Playstation 4", "Color: Black", "Brand: Sony"]
+  }
+]

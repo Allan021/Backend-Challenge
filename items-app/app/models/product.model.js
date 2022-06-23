@@ -1,7 +1,7 @@
 module.exports = (mongoose) => {
   const schema = mongoose.Schema(
     {
-      title: { type: String, required: true, unique: true },
+      title: { type: String, required: true },
       name: { type: String, required: true },
       image: { type: String, required: true },
       price: { type: Number, required: true },
@@ -10,6 +10,7 @@ module.exports = (mongoose) => {
       rating: { type: Number },
       specification: { type: Array },
       brand: { type: String },
+      slugName: { type: String, required: true, unique: true },
     },
     { timestamps: true }
   );
